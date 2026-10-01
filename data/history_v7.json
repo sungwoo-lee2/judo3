@@ -1,0 +1,408 @@
+{
+  "days": [
+    "2026-10-01"
+  ],
+  "tracks": {
+    "267260": {
+      "ticker": "267260",
+      "name": "HD현대일렉트릭",
+      "sector": "전력",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 79.2,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "초기상승",
+          "score": 79.2
+        }
+      ]
+    },
+    "012450": {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "sector": "방산",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 67.2,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "발굴",
+          "score": 67.2
+        }
+      ]
+    },
+    "298040": {
+      "ticker": "298040",
+      "name": "효성중공업",
+      "sector": "전력",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 64.8,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "발굴",
+          "score": 64.8
+        }
+      ]
+    },
+    "042660": {
+      "ticker": "042660",
+      "name": "한화오션",
+      "sector": "조선",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 59.4,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 59.4
+        }
+      ]
+    },
+    "272210": {
+      "ticker": "272210",
+      "name": "한화시스템",
+      "sector": "방산",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 57.4,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 57.4
+        }
+      ]
+    },
+    "000660": {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "sector": "반도체",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 54.8,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 54.8
+        }
+      ]
+    },
+    "064350": {
+      "ticker": "064350",
+      "name": "현대로템",
+      "sector": "방산",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 54.7,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 54.7
+        }
+      ]
+    },
+    "009540": {
+      "ticker": "009540",
+      "name": "HD한국조선해양",
+      "sector": "조선",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 51.1,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 51.1
+        }
+      ]
+    },
+    "010140": {
+      "ticker": "010140",
+      "name": "삼성중공업",
+      "sector": "조선",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 49.2,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 49.2
+        }
+      ]
+    },
+    "079550": {
+      "ticker": "079550",
+      "name": "LIG넥스원",
+      "sector": "방산",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 47.0,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "이탈주의",
+          "score": 47.0
+        }
+      ]
+    },
+    "005930": {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "sector": "반도체",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 39.3,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "이탈주의",
+          "score": 39.3
+        }
+      ]
+    },
+    "373220": {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "sector": "2차전지",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 27.8,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "이탈주의",
+          "score": 24.0
+        }
+      ]
+    }
+  },
+  "detections": {
+    "267260@2026-10-01": {
+      "ticker": "267260",
+      "name": "HD현대일렉트릭",
+      "sector": "전력",
+      "date": "2026-10-01",
+      "entry": 715000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 715000.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "012450@2026-10-01": {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "sector": "방산",
+      "date": "2026-10-01",
+      "entry": 1010000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 1010000.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "298040@2026-10-01": {
+      "ticker": "298040",
+      "name": "효성중공업",
+      "sector": "전력",
+      "date": "2026-10-01",
+      "entry": 1680000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 1680000.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "042660@2026-10-01": {
+      "ticker": "042660",
+      "name": "한화오션",
+      "sector": "조선",
+      "date": "2026-10-01",
+      "entry": 124000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 124000.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "272210@2026-10-01": {
+      "ticker": "272210",
+      "name": "한화시스템",
+      "sector": "방산",
+      "date": "2026-10-01",
+      "entry": 72000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 72000.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "000660@2026-10-01": {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "sector": "반도체",
+      "date": "2026-10-01",
+      "entry": 305000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 305000.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "064350@2026-10-01": {
+      "ticker": "064350",
+      "name": "현대로템",
+      "sector": "방산",
+      "date": "2026-10-01",
+      "entry": 248000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 248000.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "009540@2026-10-01": {
+      "ticker": "009540",
+      "name": "HD한국조선해양",
+      "sector": "조선",
+      "date": "2026-10-01",
+      "entry": 510000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 510000.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "010140@2026-10-01": {
+      "ticker": "010140",
+      "name": "삼성중공업",
+      "sector": "조선",
+      "date": "2026-10-01",
+      "entry": 27300.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 27300.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "079550@2026-10-01": {
+      "ticker": "079550",
+      "name": "LIG넥스원",
+      "sector": "방산",
+      "date": "2026-10-01",
+      "entry": 620000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 620000.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "005930@2026-10-01": {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "sector": "반도체",
+      "date": "2026-10-01",
+      "entry": 93500.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 93500.0
+        }
+      ],
+      "kind": "EARLY"
+    },
+    "373220@2026-10-01": {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "sector": "2차전지",
+      "date": "2026-10-01",
+      "entry": 420000.0,
+      "prices": [
+        {
+          "date": "2026-10-01",
+          "close": 420000.0
+        }
+      ],
+      "kind": "EARLY"
+    }
+  },
+  "last_champions": {
+    "전력": {
+      "ticker": "267260",
+      "name": "HD현대일렉트릭",
+      "score": 79.2
+    },
+    "방산": {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "score": 67.2
+    },
+    "조선": {
+      "ticker": "042660",
+      "name": "한화오션",
+      "score": 59.4
+    },
+    "반도체": {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "score": 54.8
+    },
+    "2차전지": {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "score": 24.0
+    }
+  }
+}

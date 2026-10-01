@@ -1,0 +1,2305 @@
+{
+  "updated_at": "2026-10-01T01:14:15",
+  "source": "sample-fallback",
+  "flow_status": "샘플 모드 · 실제 수급 미반영",
+  "items": [
+    {
+      "ticker": "267260",
+      "name": "HD현대일렉트릭",
+      "market": "KOSPI",
+      "sector": "전력",
+      "close": 715000,
+      "change": 4.4,
+      "amount": 260000000000,
+      "amount_ratio": 2.6,
+      "rs20": 1.22,
+      "high52": 1.0,
+      "flow_available": false,
+      "sector_strength": 1.0,
+      "ma5_ratio": 1.0154,
+      "ma10_ratio": 1.066,
+      "score": 79.2,
+      "stage": "초기상승",
+      "reasons": [
+        "거래대금이 20일 평균의 2.6배",
+        "20일 상대강도 1.22",
+        "52주 신고가권 접근",
+        "당일 +4.4% 강세"
+      ],
+      "parts": {
+        "거래대금": 16.3,
+        "수급": 10.0,
+        "추세": 20.0,
+        "섹터": 15.0,
+        "돌파": 10.0,
+        "모멘텀": 7.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 1,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 1010000,
+      "change": 3.8,
+      "amount": 430000000000,
+      "amount_ratio": 2.2,
+      "rs20": 1.18,
+      "high52": 0.99,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0133,
+      "ma10_ratio": 1.054,
+      "score": 67.2,
+      "stage": "발굴",
+      "reasons": [
+        "거래대금이 20일 평균의 2.2배",
+        "20일 상대강도 1.18",
+        "52주 신고가권 접근",
+        "당일 +3.8% 강세"
+      ],
+      "parts": {
+        "거래대금": 12.5,
+        "수급": 10.0,
+        "추세": 18.3,
+        "섹터": 10.2,
+        "돌파": 9.2,
+        "모멘텀": 7.1
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 2,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "298040",
+      "name": "효성중공업",
+      "market": "KOSPI",
+      "sector": "전력",
+      "close": 1680000,
+      "change": 2.5,
+      "amount": 160000000000,
+      "amount_ratio": 1.8,
+      "rs20": 1.16,
+      "high52": 0.99,
+      "flow_available": false,
+      "sector_strength": 1.0,
+      "ma5_ratio": 1.00875,
+      "ma10_ratio": 1.048,
+      "score": 64.8,
+      "stage": "발굴",
+      "reasons": [
+        "거래대금이 20일 평균의 1.8배",
+        "20일 상대강도 1.16",
+        "52주 신고가권 접근",
+        "섹터 동반 강세"
+      ],
+      "parts": {
+        "거래대금": 8.7,
+        "수급": 10.0,
+        "추세": 16.7,
+        "섹터": 15.0,
+        "돌파": 9.2,
+        "모멘텀": 5.3
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 3,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "042660",
+      "name": "한화오션",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 124000,
+      "change": 3.3,
+      "amount": 280000000000,
+      "amount_ratio": 2.0,
+      "rs20": 1.15,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.01155,
+      "ma10_ratio": 1.045,
+      "score": 59.4,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 2.0배",
+        "20일 상대강도 1.15",
+        "52주 신고가권 접근",
+        "당일 +3.3% 강세"
+      ],
+      "parts": {
+        "거래대금": 10.6,
+        "수급": 10.0,
+        "추세": 15.8,
+        "섹터": 8.2,
+        "돌파": 8.3,
+        "모멘텀": 6.4
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 4,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "272210",
+      "name": "한화시스템",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 72000,
+      "change": 3.0,
+      "amount": 190000000000,
+      "amount_ratio": 1.9,
+      "rs20": 1.13,
+      "high52": 0.97,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0105,
+      "ma10_ratio": 1.039,
+      "score": 57.4,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 1.9배",
+        "20일 상대강도 1.13",
+        "52주 신고가권 접근",
+        "당일 +3.0% 강세"
+      ],
+      "parts": {
+        "거래대금": 9.6,
+        "수급": 10.0,
+        "추세": 14.2,
+        "섹터": 10.2,
+        "돌파": 7.5,
+        "모멘텀": 6.0
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 5,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "close": 305000,
+      "change": 2.7,
+      "amount": 950000000000,
+      "amount_ratio": 1.9,
+      "rs20": 1.14,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.41547708489857244,
+      "ma5_ratio": 1.00945,
+      "ma10_ratio": 1.042,
+      "score": 54.8,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 1.9배",
+        "20일 상대강도 1.14",
+        "52주 신고가권 접근"
+      ],
+      "parts": {
+        "거래대금": 9.6,
+        "수급": 10.0,
+        "추세": 15.0,
+        "섹터": 6.2,
+        "돌파": 8.3,
+        "모멘텀": 5.6
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 6,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "064350",
+      "name": "현대로템",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 248000,
+      "change": 2.9,
+      "amount": 310000000000,
+      "amount_ratio": 1.8,
+      "rs20": 1.11,
+      "high52": 0.97,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.01015,
+      "ma10_ratio": 1.033,
+      "score": 54.7,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 1.8배",
+        "20일 상대강도 1.11",
+        "52주 신고가권 접근"
+      ],
+      "parts": {
+        "거래대금": 8.7,
+        "수급": 10.0,
+        "추세": 12.5,
+        "섹터": 10.2,
+        "돌파": 7.5,
+        "모멘텀": 5.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 7,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "009540",
+      "name": "HD한국조선해양",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 510000,
+      "change": 1.9,
+      "amount": 140000000000,
+      "amount_ratio": 1.6,
+      "rs20": 1.12,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.00665,
+      "ma10_ratio": 1.036,
+      "score": 51.1,
+      "stage": "관찰",
+      "reasons": [
+        "20일 상대강도 1.12",
+        "52주 신고가권 접근"
+      ],
+      "parts": {
+        "거래대금": 6.7,
+        "수급": 10.0,
+        "추세": 13.3,
+        "섹터": 8.2,
+        "돌파": 8.3,
+        "모멘텀": 4.5
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 8,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "010140",
+      "name": "삼성중공업",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 27300,
+      "change": 2.2,
+      "amount": 220000000000,
+      "amount_ratio": 1.7,
+      "rs20": 1.1,
+      "high52": 0.96,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.0077,
+      "ma10_ratio": 1.03,
+      "score": 49.2,
+      "stage": "관찰",
+      "reasons": [
+        "20일 상대강도 1.10"
+      ],
+      "parts": {
+        "거래대금": 7.7,
+        "수급": 10.0,
+        "추세": 11.7,
+        "섹터": 8.2,
+        "돌파": 6.7,
+        "모멘텀": 4.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 9,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "079550",
+      "name": "LIG넥스원",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 620000,
+      "change": 1.8,
+      "amount": 180000000000,
+      "amount_ratio": 1.5,
+      "rs20": 1.09,
+      "high52": 0.95,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0063,
+      "ma10_ratio": 1.0270000000000001,
+      "score": 47.0,
+      "stage": "이탈주의",
+      "reasons": [
+        "20일 상대강도 1.09"
+      ],
+      "parts": {
+        "거래대금": 5.8,
+        "수급": 10.0,
+        "추세": 10.8,
+        "섹터": 10.2,
+        "돌파": 5.8,
+        "모멘텀": 4.4
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 10,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "close": 93500,
+      "change": 1.6,
+      "amount": 1800000000000,
+      "amount_ratio": 1.4,
+      "rs20": 1.07,
+      "high52": 0.94,
+      "flow_available": false,
+      "sector_strength": 0.41547708489857244,
+      "ma5_ratio": 1.0056,
+      "ma10_ratio": 1.021,
+      "score": 39.3,
+      "stage": "이탈주의",
+      "reasons": [
+        "거래대금·수급·추세·섹터 점수 종합 상위"
+      ],
+      "parts": {
+        "거래대금": 4.8,
+        "수급": 10.0,
+        "추세": 9.2,
+        "섹터": 6.2,
+        "돌파": 5.0,
+        "모멘텀": 4.1
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 11,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KOSPI",
+      "sector": "2차전지",
+      "close": 420000,
+      "change": 1.1,
+      "amount": 130000000000,
+      "amount_ratio": 1.3,
+      "rs20": 1.03,
+      "high52": 0.89,
+      "flow_available": false,
+      "sector_strength": 0.0,
+      "ma5_ratio": 1.00385,
+      "ma10_ratio": 1.009,
+      "score": 24.0,
+      "stage": "이탈주의",
+      "reasons": [
+        "거래대금·수급·추세·섹터 점수 종합 상위"
+      ],
+      "parts": {
+        "거래대금": 3.8,
+        "수급": 10.0,
+        "추세": 5.8,
+        "섹터": 0.0,
+        "돌파": 0.8,
+        "모멘텀": 3.5
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 12,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false
+    }
+  ],
+  "sectors": [
+    {
+      "sector": "전력",
+      "score": 72.0,
+      "change": 3.45,
+      "leaders": [
+        "HD현대일렉트릭",
+        "효성중공업"
+      ],
+      "count": 2
+    },
+    {
+      "sector": "방산",
+      "score": 56.6,
+      "change": 2.88,
+      "leaders": [
+        "한화에어로스페이스",
+        "한화시스템",
+        "현대로템"
+      ],
+      "count": 4
+    },
+    {
+      "sector": "조선",
+      "score": 53.2,
+      "change": 2.47,
+      "leaders": [
+        "한화오션",
+        "HD한국조선해양",
+        "삼성중공업"
+      ],
+      "count": 3
+    },
+    {
+      "sector": "반도체",
+      "score": 47.0,
+      "change": 2.15,
+      "leaders": [
+        "SK하이닉스",
+        "삼성전자"
+      ],
+      "count": 2
+    },
+    {
+      "sector": "2차전지",
+      "score": 24.0,
+      "change": 1.1,
+      "leaders": [
+        "LG에너지솔루션"
+      ],
+      "count": 1
+    }
+  ],
+  "changes": {
+    "entered": [],
+    "exited": []
+  },
+  "early_leaders": [
+    {
+      "ticker": "267260",
+      "name": "HD현대일렉트릭",
+      "market": "KOSPI",
+      "sector": "전력",
+      "close": 715000,
+      "change": 4.4,
+      "amount": 260000000000,
+      "amount_ratio": 2.6,
+      "rs20": 1.22,
+      "high52": 1.0,
+      "flow_available": false,
+      "sector_strength": 1.0,
+      "ma5_ratio": 1.0154,
+      "ma10_ratio": 1.066,
+      "score": 79.2,
+      "stage": "초기상승",
+      "reasons": [
+        "거래대금이 20일 평균의 2.6배",
+        "20일 상대강도 1.22",
+        "52주 신고가권 접근",
+        "당일 +4.4% 강세"
+      ],
+      "parts": {
+        "거래대금": 16.3,
+        "수급": 10.0,
+        "추세": 20.0,
+        "섹터": 15.0,
+        "돌파": 10.0,
+        "모멘텀": 7.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 1,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 77.2,
+      "early_label": "초기주도 후보",
+      "early_signals": [
+        "거래대금 2.6배 급증",
+        "52주 고점의 100%",
+        "섹터 확산 동반",
+        "당일 +4.4% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 23.2,
+        "수급전환": 12.5,
+        "돌파근접": 17.1,
+        "섹터확산": 15.0,
+        "초기모멘텀": 9.3,
+        "과열감점": 0.0
+      },
+      "early_rank": 1
+    },
+    {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 1010000,
+      "change": 3.8,
+      "amount": 430000000000,
+      "amount_ratio": 2.2,
+      "rs20": 1.18,
+      "high52": 0.99,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0133,
+      "ma10_ratio": 1.054,
+      "score": 67.2,
+      "stage": "발굴",
+      "reasons": [
+        "거래대금이 20일 평균의 2.2배",
+        "20일 상대강도 1.18",
+        "52주 신고가권 접근",
+        "당일 +3.8% 강세"
+      ],
+      "parts": {
+        "거래대금": 12.5,
+        "수급": 10.0,
+        "추세": 18.3,
+        "섹터": 10.2,
+        "돌파": 9.2,
+        "모멘텀": 7.1
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 2,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 64.3,
+      "early_label": "관찰 후보",
+      "early_signals": [
+        "거래대금 2.2배 급증",
+        "52주 고점의 99%",
+        "섹터 확산 동반",
+        "당일 +3.8% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 17.3,
+        "수급전환": 12.5,
+        "돌파근접": 15.7,
+        "섹터확산": 10.2,
+        "초기모멘텀": 8.7,
+        "과열감점": 0.0
+      },
+      "early_rank": 2
+    },
+    {
+      "ticker": "298040",
+      "name": "효성중공업",
+      "market": "KOSPI",
+      "sector": "전력",
+      "close": 1680000,
+      "change": 2.5,
+      "amount": 160000000000,
+      "amount_ratio": 1.8,
+      "rs20": 1.16,
+      "high52": 0.99,
+      "flow_available": false,
+      "sector_strength": 1.0,
+      "ma5_ratio": 1.00875,
+      "ma10_ratio": 1.048,
+      "score": 64.8,
+      "stage": "발굴",
+      "reasons": [
+        "거래대금이 20일 평균의 1.8배",
+        "20일 상대강도 1.16",
+        "52주 신고가권 접근",
+        "섹터 동반 강세"
+      ],
+      "parts": {
+        "거래대금": 8.7,
+        "수급": 10.0,
+        "추세": 16.7,
+        "섹터": 15.0,
+        "돌파": 9.2,
+        "모멘텀": 5.3
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 3,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 61.7,
+      "early_label": "관찰 후보",
+      "early_signals": [
+        "거래대금 1.8배 급증",
+        "52주 고점의 99%",
+        "섹터 확산 동반",
+        "당일 +2.5% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 11.2,
+        "수급전환": 12.5,
+        "돌파근접": 15.7,
+        "섹터확산": 15.0,
+        "초기모멘텀": 7.3,
+        "과열감점": 0.0
+      },
+      "early_rank": 3
+    },
+    {
+      "ticker": "042660",
+      "name": "한화오션",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 124000,
+      "change": 3.3,
+      "amount": 280000000000,
+      "amount_ratio": 2.0,
+      "rs20": 1.15,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.01155,
+      "ma10_ratio": 1.045,
+      "score": 59.4,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 2.0배",
+        "20일 상대강도 1.15",
+        "52주 신고가권 접근",
+        "당일 +3.3% 강세"
+      ],
+      "parts": {
+        "거래대금": 10.6,
+        "수급": 10.0,
+        "추세": 15.8,
+        "섹터": 8.2,
+        "돌파": 8.3,
+        "모멘텀": 6.4
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 4,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 57.4,
+      "early_label": "관찰 후보",
+      "early_signals": [
+        "거래대금 2.0배 급증",
+        "52주 고점의 98%",
+        "당일 +3.3% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 14.2,
+        "수급전환": 12.5,
+        "돌파근접": 14.3,
+        "섹터확산": 8.2,
+        "초기모멘텀": 8.1,
+        "과열감점": 0.0
+      },
+      "early_rank": 4
+    },
+    {
+      "ticker": "272210",
+      "name": "한화시스템",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 72000,
+      "change": 3.0,
+      "amount": 190000000000,
+      "amount_ratio": 1.9,
+      "rs20": 1.13,
+      "high52": 0.97,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0105,
+      "ma10_ratio": 1.039,
+      "score": 57.4,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 1.9배",
+        "20일 상대강도 1.13",
+        "52주 신고가권 접근",
+        "당일 +3.0% 강세"
+      ],
+      "parts": {
+        "거래대금": 9.6,
+        "수급": 10.0,
+        "추세": 14.2,
+        "섹터": 10.2,
+        "돌파": 7.5,
+        "모멘텀": 6.0
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 5,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 56.1,
+      "early_label": "관찰 후보",
+      "early_signals": [
+        "거래대금 1.9배 급증",
+        "52주 고점의 97%",
+        "섹터 확산 동반",
+        "당일 +3.0% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 12.7,
+        "수급전환": 12.5,
+        "돌파근접": 12.9,
+        "섹터확산": 10.2,
+        "초기모멘텀": 7.8,
+        "과열감점": 0.0
+      },
+      "early_rank": 5
+    },
+    {
+      "ticker": "064350",
+      "name": "현대로템",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 248000,
+      "change": 2.9,
+      "amount": 310000000000,
+      "amount_ratio": 1.8,
+      "rs20": 1.11,
+      "high52": 0.97,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.01015,
+      "ma10_ratio": 1.033,
+      "score": 54.7,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 1.8배",
+        "20일 상대강도 1.11",
+        "52주 신고가권 접근"
+      ],
+      "parts": {
+        "거래대금": 8.7,
+        "수급": 10.0,
+        "추세": 12.5,
+        "섹터": 10.2,
+        "돌파": 7.5,
+        "모멘텀": 5.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 7,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 54.5,
+      "early_label": "대기",
+      "early_signals": [
+        "거래대금 1.8배 급증",
+        "52주 고점의 97%",
+        "섹터 확산 동반",
+        "당일 +2.9% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 11.2,
+        "수급전환": 12.5,
+        "돌파근접": 12.9,
+        "섹터확산": 10.2,
+        "초기모멘텀": 7.7,
+        "과열감점": 0.0
+      },
+      "early_rank": 6
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "close": 305000,
+      "change": 2.7,
+      "amount": 950000000000,
+      "amount_ratio": 1.9,
+      "rs20": 1.14,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.41547708489857244,
+      "ma5_ratio": 1.00945,
+      "ma10_ratio": 1.042,
+      "score": 54.8,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 1.9배",
+        "20일 상대강도 1.14",
+        "52주 신고가권 접근"
+      ],
+      "parts": {
+        "거래대금": 9.6,
+        "수급": 10.0,
+        "추세": 15.0,
+        "섹터": 6.2,
+        "돌파": 8.3,
+        "모멘텀": 5.6
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 6,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 53.3,
+      "early_label": "대기",
+      "early_signals": [
+        "거래대금 1.9배 급증",
+        "52주 고점의 98%",
+        "당일 +2.7% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 12.7,
+        "수급전환": 12.5,
+        "돌파근접": 14.3,
+        "섹터확산": 6.2,
+        "초기모멘텀": 7.5,
+        "과열감점": 0.0
+      },
+      "early_rank": 7
+    },
+    {
+      "ticker": "009540",
+      "name": "HD한국조선해양",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 510000,
+      "change": 1.9,
+      "amount": 140000000000,
+      "amount_ratio": 1.6,
+      "rs20": 1.12,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.00665,
+      "ma10_ratio": 1.036,
+      "score": 51.1,
+      "stage": "관찰",
+      "reasons": [
+        "20일 상대강도 1.12",
+        "52주 신고가권 접근"
+      ],
+      "parts": {
+        "거래대금": 6.7,
+        "수급": 10.0,
+        "추세": 13.3,
+        "섹터": 8.2,
+        "돌파": 8.3,
+        "모멘텀": 4.5
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 8,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 49.9,
+      "early_label": "대기",
+      "early_signals": [
+        "거래대금 1.6배 급증",
+        "52주 고점의 98%",
+        "당일 +1.9% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 8.2,
+        "수급전환": 12.5,
+        "돌파근접": 14.3,
+        "섹터확산": 8.2,
+        "초기모멘텀": 6.6,
+        "과열감점": 0.0
+      },
+      "early_rank": 8
+    },
+    {
+      "ticker": "010140",
+      "name": "삼성중공업",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 27300,
+      "change": 2.2,
+      "amount": 220000000000,
+      "amount_ratio": 1.7,
+      "rs20": 1.1,
+      "high52": 0.96,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.0077,
+      "ma10_ratio": 1.03,
+      "score": 49.2,
+      "stage": "관찰",
+      "reasons": [
+        "20일 상대강도 1.10"
+      ],
+      "parts": {
+        "거래대금": 7.7,
+        "수급": 10.0,
+        "추세": 11.7,
+        "섹터": 8.2,
+        "돌파": 6.7,
+        "모멘텀": 4.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 9,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 48.8,
+      "early_label": "대기",
+      "early_signals": [
+        "거래대금 1.7배 급증",
+        "52주 고점의 96%",
+        "당일 +2.2% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 9.7,
+        "수급전환": 12.5,
+        "돌파근접": 11.4,
+        "섹터확산": 8.2,
+        "초기모멘텀": 6.9,
+        "과열감점": 0.0
+      },
+      "early_rank": 9
+    },
+    {
+      "ticker": "079550",
+      "name": "LIG넥스원",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 620000,
+      "change": 1.8,
+      "amount": 180000000000,
+      "amount_ratio": 1.5,
+      "rs20": 1.09,
+      "high52": 0.95,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0063,
+      "ma10_ratio": 1.0270000000000001,
+      "score": 47.0,
+      "stage": "이탈주의",
+      "reasons": [
+        "20일 상대강도 1.09"
+      ],
+      "parts": {
+        "거래대금": 5.8,
+        "수급": 10.0,
+        "추세": 10.8,
+        "섹터": 10.2,
+        "돌파": 5.8,
+        "모멘텀": 4.4
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 10,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 45.6,
+      "early_label": "대기",
+      "early_signals": [
+        "52주 고점의 95%",
+        "섹터 확산 동반",
+        "당일 +1.8% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 6.7,
+        "수급전환": 12.5,
+        "돌파근접": 10.0,
+        "섹터확산": 10.2,
+        "초기모멘텀": 6.2,
+        "과열감점": 0.0
+      },
+      "early_rank": 10
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "close": 93500,
+      "change": 1.6,
+      "amount": 1800000000000,
+      "amount_ratio": 1.4,
+      "rs20": 1.07,
+      "high52": 0.94,
+      "flow_available": false,
+      "sector_strength": 0.41547708489857244,
+      "ma5_ratio": 1.0056,
+      "ma10_ratio": 1.021,
+      "score": 39.3,
+      "stage": "이탈주의",
+      "reasons": [
+        "거래대금·수급·추세·섹터 점수 종합 상위"
+      ],
+      "parts": {
+        "거래대금": 4.8,
+        "수급": 10.0,
+        "추세": 9.2,
+        "섹터": 6.2,
+        "돌파": 5.0,
+        "모멘텀": 4.1
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 11,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 37.8,
+      "early_label": "대기",
+      "early_signals": [
+        "당일 +1.6% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 5.2,
+        "수급전환": 12.5,
+        "돌파근접": 8.6,
+        "섹터확산": 6.2,
+        "초기모멘텀": 5.3,
+        "과열감점": 0.0
+      },
+      "early_rank": 11
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KOSPI",
+      "sector": "2차전지",
+      "close": 420000,
+      "change": 1.1,
+      "amount": 130000000000,
+      "amount_ratio": 1.3,
+      "rs20": 1.03,
+      "high52": 0.89,
+      "flow_available": false,
+      "sector_strength": 0.0,
+      "ma5_ratio": 1.00385,
+      "ma10_ratio": 1.009,
+      "score": 24.0,
+      "stage": "이탈주의",
+      "reasons": [
+        "거래대금·수급·추세·섹터 점수 종합 상위"
+      ],
+      "parts": {
+        "거래대금": 3.8,
+        "수급": 10.0,
+        "추세": 5.8,
+        "섹터": 0.0,
+        "돌파": 0.8,
+        "모멘텀": 3.5
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 12,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "early_score": 27.8,
+      "early_label": "대기",
+      "early_signals": [
+        "당일 +1.1% 초기 모멘텀"
+      ],
+      "early_parts": {
+        "거래대금급증": 3.8,
+        "수급전환": 12.5,
+        "돌파근접": 1.4,
+        "섹터확산": 6.8,
+        "초기모멘텀": 3.4,
+        "과열감점": 0.0
+      },
+      "early_rank": 12
+    }
+  ],
+  "pullbacks": [
+    {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 1010000,
+      "change": 3.8,
+      "amount": 430000000000,
+      "amount_ratio": 2.2,
+      "rs20": 1.18,
+      "high52": 0.99,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0133,
+      "ma10_ratio": 1.054,
+      "score": 67.2,
+      "stage": "발굴",
+      "reasons": [
+        "거래대금이 20일 평균의 2.2배",
+        "20일 상대강도 1.18",
+        "52주 신고가권 접근",
+        "당일 +3.8% 강세"
+      ],
+      "parts": {
+        "거래대금": 12.5,
+        "수급": 10.0,
+        "추세": 18.3,
+        "섹터": 10.2,
+        "돌파": 9.2,
+        "모멘텀": 7.1
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 2,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "pullback_score": 73.8,
+      "pullback_reasons": [
+        "5일선 근접 (+1.3%)",
+        "20일 추세 우위 유지",
+        "거래대금 유지"
+      ],
+      "pullback_rank": 1
+    },
+    {
+      "ticker": "298040",
+      "name": "효성중공업",
+      "market": "KOSPI",
+      "sector": "전력",
+      "close": 1680000,
+      "change": 2.5,
+      "amount": 160000000000,
+      "amount_ratio": 1.8,
+      "rs20": 1.16,
+      "high52": 0.99,
+      "flow_available": false,
+      "sector_strength": 1.0,
+      "ma5_ratio": 1.00875,
+      "ma10_ratio": 1.048,
+      "score": 64.8,
+      "stage": "발굴",
+      "reasons": [
+        "거래대금이 20일 평균의 1.8배",
+        "20일 상대강도 1.16",
+        "52주 신고가권 접근",
+        "섹터 동반 강세"
+      ],
+      "parts": {
+        "거래대금": 8.7,
+        "수급": 10.0,
+        "추세": 16.7,
+        "섹터": 15.0,
+        "돌파": 9.2,
+        "모멘텀": 5.3
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 3,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "pullback_score": 72.8,
+      "pullback_reasons": [
+        "5일선 근접 (+0.9%)",
+        "10일선 근접 (+4.8%)",
+        "20일 추세 우위 유지"
+      ],
+      "pullback_rank": 2
+    },
+    {
+      "ticker": "267260",
+      "name": "HD현대일렉트릭",
+      "market": "KOSPI",
+      "sector": "전력",
+      "close": 715000,
+      "change": 4.4,
+      "amount": 260000000000,
+      "amount_ratio": 2.6,
+      "rs20": 1.22,
+      "high52": 1.0,
+      "flow_available": false,
+      "sector_strength": 1.0,
+      "ma5_ratio": 1.0154,
+      "ma10_ratio": 1.066,
+      "score": 79.2,
+      "stage": "초기상승",
+      "reasons": [
+        "거래대금이 20일 평균의 2.6배",
+        "20일 상대강도 1.22",
+        "52주 신고가권 접근",
+        "당일 +4.4% 강세"
+      ],
+      "parts": {
+        "거래대금": 16.3,
+        "수급": 10.0,
+        "추세": 20.0,
+        "섹터": 15.0,
+        "돌파": 10.0,
+        "모멘텀": 7.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 1,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "pullback_score": 70.9,
+      "pullback_reasons": [
+        "5일선 근접 (+1.5%)",
+        "20일 추세 우위 유지",
+        "거래대금 유지"
+      ],
+      "pullback_rank": 3
+    },
+    {
+      "ticker": "042660",
+      "name": "한화오션",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 124000,
+      "change": 3.3,
+      "amount": 280000000000,
+      "amount_ratio": 2.0,
+      "rs20": 1.15,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.01155,
+      "ma10_ratio": 1.045,
+      "score": 59.4,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 2.0배",
+        "20일 상대강도 1.15",
+        "52주 신고가권 접근",
+        "당일 +3.3% 강세"
+      ],
+      "parts": {
+        "거래대금": 10.6,
+        "수급": 10.0,
+        "추세": 15.8,
+        "섹터": 8.2,
+        "돌파": 8.3,
+        "모멘텀": 6.4
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 4,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "pullback_score": 69.5,
+      "pullback_reasons": [
+        "5일선 근접 (+1.2%)",
+        "10일선 근접 (+4.5%)",
+        "20일 추세 우위 유지"
+      ],
+      "pullback_rank": 4
+    }
+  ],
+  "lifecycle": [
+    {
+      "ticker": "267260",
+      "name": "HD현대일렉트릭",
+      "market": "KOSPI",
+      "sector": "전력",
+      "close": 715000,
+      "change": 4.4,
+      "amount": 260000000000,
+      "amount_ratio": 2.6,
+      "rs20": 1.22,
+      "high52": 1.0,
+      "flow_available": false,
+      "sector_strength": 1.0,
+      "ma5_ratio": 1.0154,
+      "ma10_ratio": 1.066,
+      "score": 79.2,
+      "stage": "초기상승",
+      "reasons": [
+        "거래대금이 20일 평균의 2.6배",
+        "20일 상대강도 1.22",
+        "52주 신고가권 접근",
+        "당일 +4.4% 강세"
+      ],
+      "parts": {
+        "거래대금": 16.3,
+        "수급": 10.0,
+        "추세": 20.0,
+        "섹터": 15.0,
+        "돌파": 10.0,
+        "모멘텀": 7.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 1,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 79.2,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "초기상승",
+          "score": 79.2
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 1010000,
+      "change": 3.8,
+      "amount": 430000000000,
+      "amount_ratio": 2.2,
+      "rs20": 1.18,
+      "high52": 0.99,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0133,
+      "ma10_ratio": 1.054,
+      "score": 67.2,
+      "stage": "발굴",
+      "reasons": [
+        "거래대금이 20일 평균의 2.2배",
+        "20일 상대강도 1.18",
+        "52주 신고가권 접근",
+        "당일 +3.8% 강세"
+      ],
+      "parts": {
+        "거래대금": 12.5,
+        "수급": 10.0,
+        "추세": 18.3,
+        "섹터": 10.2,
+        "돌파": 9.2,
+        "모멘텀": 7.1
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 2,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 67.2,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "발굴",
+          "score": 67.2
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "298040",
+      "name": "효성중공업",
+      "market": "KOSPI",
+      "sector": "전력",
+      "close": 1680000,
+      "change": 2.5,
+      "amount": 160000000000,
+      "amount_ratio": 1.8,
+      "rs20": 1.16,
+      "high52": 0.99,
+      "flow_available": false,
+      "sector_strength": 1.0,
+      "ma5_ratio": 1.00875,
+      "ma10_ratio": 1.048,
+      "score": 64.8,
+      "stage": "발굴",
+      "reasons": [
+        "거래대금이 20일 평균의 1.8배",
+        "20일 상대강도 1.16",
+        "52주 신고가권 접근",
+        "섹터 동반 강세"
+      ],
+      "parts": {
+        "거래대금": 8.7,
+        "수급": 10.0,
+        "추세": 16.7,
+        "섹터": 15.0,
+        "돌파": 9.2,
+        "모멘텀": 5.3
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 3,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 64.8,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "발굴",
+          "score": 64.8
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "042660",
+      "name": "한화오션",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 124000,
+      "change": 3.3,
+      "amount": 280000000000,
+      "amount_ratio": 2.0,
+      "rs20": 1.15,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.01155,
+      "ma10_ratio": 1.045,
+      "score": 59.4,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 2.0배",
+        "20일 상대강도 1.15",
+        "52주 신고가권 접근",
+        "당일 +3.3% 강세"
+      ],
+      "parts": {
+        "거래대금": 10.6,
+        "수급": 10.0,
+        "추세": 15.8,
+        "섹터": 8.2,
+        "돌파": 8.3,
+        "모멘텀": 6.4
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 4,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 59.4,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 59.4
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "272210",
+      "name": "한화시스템",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 72000,
+      "change": 3.0,
+      "amount": 190000000000,
+      "amount_ratio": 1.9,
+      "rs20": 1.13,
+      "high52": 0.97,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0105,
+      "ma10_ratio": 1.039,
+      "score": 57.4,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 1.9배",
+        "20일 상대강도 1.13",
+        "52주 신고가권 접근",
+        "당일 +3.0% 강세"
+      ],
+      "parts": {
+        "거래대금": 9.6,
+        "수급": 10.0,
+        "추세": 14.2,
+        "섹터": 10.2,
+        "돌파": 7.5,
+        "모멘텀": 6.0
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 5,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 57.4,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 57.4
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "close": 305000,
+      "change": 2.7,
+      "amount": 950000000000,
+      "amount_ratio": 1.9,
+      "rs20": 1.14,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.41547708489857244,
+      "ma5_ratio": 1.00945,
+      "ma10_ratio": 1.042,
+      "score": 54.8,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 1.9배",
+        "20일 상대강도 1.14",
+        "52주 신고가권 접근"
+      ],
+      "parts": {
+        "거래대금": 9.6,
+        "수급": 10.0,
+        "추세": 15.0,
+        "섹터": 6.2,
+        "돌파": 8.3,
+        "모멘텀": 5.6
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 6,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 54.8,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 54.8
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "064350",
+      "name": "현대로템",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 248000,
+      "change": 2.9,
+      "amount": 310000000000,
+      "amount_ratio": 1.8,
+      "rs20": 1.11,
+      "high52": 0.97,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.01015,
+      "ma10_ratio": 1.033,
+      "score": 54.7,
+      "stage": "관찰",
+      "reasons": [
+        "거래대금이 20일 평균의 1.8배",
+        "20일 상대강도 1.11",
+        "52주 신고가권 접근"
+      ],
+      "parts": {
+        "거래대금": 8.7,
+        "수급": 10.0,
+        "추세": 12.5,
+        "섹터": 10.2,
+        "돌파": 7.5,
+        "모멘텀": 5.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 7,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 54.7,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 54.7
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "009540",
+      "name": "HD한국조선해양",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 510000,
+      "change": 1.9,
+      "amount": 140000000000,
+      "amount_ratio": 1.6,
+      "rs20": 1.12,
+      "high52": 0.98,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.00665,
+      "ma10_ratio": 1.036,
+      "score": 51.1,
+      "stage": "관찰",
+      "reasons": [
+        "20일 상대강도 1.12",
+        "52주 신고가권 접근"
+      ],
+      "parts": {
+        "거래대금": 6.7,
+        "수급": 10.0,
+        "추세": 13.3,
+        "섹터": 8.2,
+        "돌파": 8.3,
+        "모멘텀": 4.5
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 8,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 51.1,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 51.1
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "010140",
+      "name": "삼성중공업",
+      "market": "KOSPI",
+      "sector": "조선",
+      "close": 27300,
+      "change": 2.2,
+      "amount": 220000000000,
+      "amount_ratio": 1.7,
+      "rs20": 1.1,
+      "high52": 0.96,
+      "flow_available": false,
+      "sector_strength": 0.547458051590283,
+      "ma5_ratio": 1.0077,
+      "ma10_ratio": 1.03,
+      "score": 49.2,
+      "stage": "관찰",
+      "reasons": [
+        "20일 상대강도 1.10"
+      ],
+      "parts": {
+        "거래대금": 7.7,
+        "수급": 10.0,
+        "추세": 11.7,
+        "섹터": 8.2,
+        "돌파": 6.7,
+        "모멘텀": 4.9
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 9,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 49.2,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "관찰",
+          "score": 49.2
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "079550",
+      "name": "LIG넥스원",
+      "market": "KOSPI",
+      "sector": "방산",
+      "close": 620000,
+      "change": 1.8,
+      "amount": 180000000000,
+      "amount_ratio": 1.5,
+      "rs20": 1.09,
+      "high52": 0.95,
+      "flow_available": false,
+      "sector_strength": 0.6773102930127725,
+      "ma5_ratio": 1.0063,
+      "ma10_ratio": 1.0270000000000001,
+      "score": 47.0,
+      "stage": "이탈주의",
+      "reasons": [
+        "20일 상대강도 1.09"
+      ],
+      "parts": {
+        "거래대금": 5.8,
+        "수급": 10.0,
+        "추세": 10.8,
+        "섹터": 10.2,
+        "돌파": 5.8,
+        "모멘텀": 4.4
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 10,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 47.0,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "이탈주의",
+          "score": 47.0
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "close": 93500,
+      "change": 1.6,
+      "amount": 1800000000000,
+      "amount_ratio": 1.4,
+      "rs20": 1.07,
+      "high52": 0.94,
+      "flow_available": false,
+      "sector_strength": 0.41547708489857244,
+      "ma5_ratio": 1.0056,
+      "ma10_ratio": 1.021,
+      "score": 39.3,
+      "stage": "이탈주의",
+      "reasons": [
+        "거래대금·수급·추세·섹터 점수 종합 상위"
+      ],
+      "parts": {
+        "거래대금": 4.8,
+        "수급": 10.0,
+        "추세": 9.2,
+        "섹터": 6.2,
+        "돌파": 5.0,
+        "모멘텀": 4.1
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 11,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 39.3,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "이탈주의",
+          "score": 39.3
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KOSPI",
+      "sector": "2차전지",
+      "close": 420000,
+      "change": 1.1,
+      "amount": 130000000000,
+      "amount_ratio": 1.3,
+      "rs20": 1.03,
+      "high52": 0.89,
+      "flow_available": false,
+      "sector_strength": 0.0,
+      "ma5_ratio": 1.00385,
+      "ma10_ratio": 1.009,
+      "score": 24.0,
+      "stage": "이탈주의",
+      "reasons": [
+        "거래대금·수급·추세·섹터 점수 종합 상위"
+      ],
+      "parts": {
+        "거래대금": 3.8,
+        "수급": 10.0,
+        "추세": 5.8,
+        "섹터": 0.0,
+        "돌파": 0.8,
+        "모멘텀": 3.5
+      },
+      "flow_parts": {
+        "외국인": 4.0,
+        "기관": 4.0,
+        "동반수급": 2.0,
+        "연속/급증": 0.0
+      },
+      "rank": 12,
+      "rank_change": 0,
+      "flow_score_change": 0.0,
+      "new_entry": false,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "seen_days": 1,
+      "consecutive_days": 1,
+      "peak_score": 27.8,
+      "stages": [
+        {
+          "date": "2026-10-01",
+          "stage": "이탈주의",
+          "score": 24.0
+        }
+      ],
+      "lifecycle_status": "오늘 첫 포착"
+    }
+  ],
+  "rotations": [],
+  "performance": {
+    "detections": [
+      {
+        "ticker": "267260",
+        "name": "HD현대일렉트릭",
+        "sector": "전력",
+        "date": "2026-10-01",
+        "entry": 715000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 715000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "sector": "방산",
+        "date": "2026-10-01",
+        "entry": 1010000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 1010000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "298040",
+        "name": "효성중공업",
+        "sector": "전력",
+        "date": "2026-10-01",
+        "entry": 1680000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 1680000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "sector": "조선",
+        "date": "2026-10-01",
+        "entry": 124000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 124000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "272210",
+        "name": "한화시스템",
+        "sector": "방산",
+        "date": "2026-10-01",
+        "entry": 72000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 72000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "sector": "반도체",
+        "date": "2026-10-01",
+        "entry": 305000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 305000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "064350",
+        "name": "현대로템",
+        "sector": "방산",
+        "date": "2026-10-01",
+        "entry": 248000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 248000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "009540",
+        "name": "HD한국조선해양",
+        "sector": "조선",
+        "date": "2026-10-01",
+        "entry": 510000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 510000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "010140",
+        "name": "삼성중공업",
+        "sector": "조선",
+        "date": "2026-10-01",
+        "entry": 27300.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 27300.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "079550",
+        "name": "LIG넥스원",
+        "sector": "방산",
+        "date": "2026-10-01",
+        "entry": 620000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 620000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "sector": "반도체",
+        "date": "2026-10-01",
+        "entry": 93500.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 93500.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "sector": "2차전지",
+        "date": "2026-10-01",
+        "entry": 420000.0,
+        "prices": [
+          {
+            "date": "2026-10-01",
+            "close": 420000.0
+          }
+        ],
+        "kind": "EARLY",
+        "current_return": 0.0,
+        "max_return": 0.0,
+        "max_drawdown": 0.0,
+        "obs_days": 1
+      }
+    ],
+    "total": 12,
+    "mature": 0,
+    "positive_rate": null,
+    "hit_3pct_rate": null,
+    "avg_current_return": null
+  }
+}
